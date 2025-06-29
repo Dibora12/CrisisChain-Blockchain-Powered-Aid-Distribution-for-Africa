@@ -69,7 +69,7 @@ npm run dev
 
 ## 📍 Key Modules
 
-### 🧑‍💼 Authentication & Identity
+### 🙍‍♂️🙍‍♀️ Authentication & Identity
 - Email/password login  
 - Secure session management  
 - User profile with Lace wallet address  
