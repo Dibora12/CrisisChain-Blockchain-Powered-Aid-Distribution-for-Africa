@@ -48,6 +48,9 @@ Too often, aid gets lost before reaching the people who need it most. CrisisChai
 Run the following command in your project folder:  
 ```bash
 npm install
+git clone https://github.com/Dibora12/CrisisChain-Blockchain-Powered-Aid-Distribution-for-Africa
+cd CrisisChain-Blockchain-Powered-Aid-Distribution-for-Africa
+
 ```
 
 ### 3. Configure Environment Variables  
@@ -91,6 +94,40 @@ npm run dev
 - Zero-knowledge proof integration for identity and eligibility  
 
 ---
+## 📚 User Guide
+
+### Getting Started
+1. **Sign Up / Log In**  
+   - Create an account using your email and password.  
+   - Connect your Cardano wallet via the Lace Wallet integration for secure transactions.
+
+2. **Profile Setup**  
+   - Complete your profile with necessary information and link your wallet address.
+
+### Using the Dashboard
+
+- **Apply for Aid**  
+  - Navigate to the Aid Application page.  
+  - Fill in the required details and submit your application.  
+  - Your application will be verified by local verifiers.
+
+- **Verification Process**  
+  - Verifiers receive aid requests in their dashboard.  
+  - They confirm identity and eligibility without exposing sensitive data (using zero-knowledge proofs).
+
+- **Aid Distribution**  
+  - Once verified, aid tokens are issued via smart contracts.  
+  - You can track the status of your aid delivery in real time on the dashboard map.
+
+- **Export Reports**  
+  - Admins and authorized users can export recipient and distribution reports for transparency.
+
+### Offline Access  
+- The mobile app supports offline mode to submit reports or applications when internet is unavailable.  
+- Data syncs automatically once connection is restored.
+
+---
+
 
 ## 🤝 Contributing
 
