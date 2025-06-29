@@ -1,7 +1,7 @@
 
 # 🌍 CrisisChain – Blockchain Powered Aid Distribution For Africa
 
-**CrisisChain** is a decentralized web and mobile platform designed to bring **transparency, fairness, and security** to humanitarian aid distribution across Africa. Built on the privacy-focused **Midnight blockchain**, it enables NGOs, donors, governments, and communities to collaborate in a **trustless, verifiable ecosystem** where aid flows directly to verified recipients — with no corruption or mismanagement.
+**CrisisChain** is a decentralized web app platform designed to bring **transparency, fairness, and security** to humanitarian aid distribution across Africa. Built on the privacy focused **Midnight blockchain**, it enables NGOs, donors, governments, and communities to collaborate in a **trustless, verifiable ecosystem** where aid flows directly to verified recipients with no corruption or mismanagement.
 
 ---
 
