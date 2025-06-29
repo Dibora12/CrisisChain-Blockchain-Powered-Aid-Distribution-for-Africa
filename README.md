@@ -151,9 +151,10 @@ See the `LICENSE` file for full details.
 
 ## 📬 Contact
 
-**Project Lead**: Dibora Shibeshi  
+**Project Lead**: Dibora Shibeshi 
+**Team**: Leyuthega Abebaw & Hana Tamiru
 **Location**: Ethiopia 🇪🇹  
-**Track**: Full-Stack Developer – Software Engineering  
+**Track**: Full-Stack Developer – Software Engineering/Junior Blockchain Developer
 GitHub: [@Dibora12](https://github.com/Dibora12)
 
 ---
