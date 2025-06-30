@@ -11,7 +11,11 @@ import { ProofOfAidCard } from "@/components/proof/ProofOfAidCard";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { CreateTokenDialog } from "@/components/dialogs/CreateTokenDialog";
 import { useAidTokens } from "@/hooks/useAidTokens";
+<<<<<<< HEAD
 import { useMidnightTransactions, useMidnightStats } from "@/offchain/hooks/useMidnightTransactions";
+=======
+import { useMidnightTransactions, useMidnightStats } from "@/hooks/useMidnightTransactions";
+>>>>>>> 336e55f82ca4324f1eed472f015a41b49b20b461
 import { useDistributions } from "@/hooks/useDistributions";
 import { useTokens } from "@/hooks/useTokens";
 import { useState } from "react";

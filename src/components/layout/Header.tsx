@@ -6,7 +6,11 @@ import { ThemeToggle } from "../theme/ThemeToggle";
 import { toast } from "sonner";
 import { useAuth } from "@/contexts/AuthContext";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
+<<<<<<< HEAD
 import { supabase } from "@/backend/supabase/client";
+=======
+import { supabase } from "@/integrations/supabase/client";
+>>>>>>> 336e55f82ca4324f1eed472f015a41b49b20b461
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

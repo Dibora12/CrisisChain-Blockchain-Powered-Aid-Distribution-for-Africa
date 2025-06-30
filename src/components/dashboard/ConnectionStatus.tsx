@@ -3,9 +3,15 @@ import React, { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { CheckCircle, XCircle, Loader2, Wallet, Database, ExternalLink, Cpu, AlertCircle } from 'lucide-react';
+<<<<<<< HEAD
 import { supabase } from '@/backend/supabase/client';
 import { useAuth } from '@/contexts/AuthContext';
 import { useSmartContracts } from '@/onchain/hooks/useSmartContracts';
+=======
+import { supabase } from '@/integrations/supabase/client';
+import { useAuth } from '@/contexts/AuthContext';
+import { useSmartContracts } from '@/hooks/useSmartContracts';
+>>>>>>> 336e55f82ca4324f1eed472f015a41b49b20b461
 import { toast } from 'sonner';
 import { Alert, AlertDescription } from '@/components/ui/alert';
 

@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { supabase } from '@/backend/supabase/client';
+=======
+
+import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
+import { supabase } from '@/integrations/supabase/client';
+>>>>>>> 336e55f82ca4324f1eed472f015a41b49b20b461
 import { useAuth } from '@/contexts/AuthContext';
 import { toast } from 'sonner';
 

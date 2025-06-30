@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 336e55f82ca4324f1eed472f015a41b49b20b461
 import React from 'react';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
@@ -5,7 +9,11 @@ import * as z from 'zod';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form';
+<<<<<<< HEAD
 import { supabase } from '@/backend/supabase/client';
+=======
+import { supabase } from '@/integrations/supabase/client';
+>>>>>>> 336e55f82ca4324f1eed472f015a41b49b20b461
 import { useAuth } from '@/contexts/AuthContext';
 import { toast } from 'sonner';
 import { Loader2 } from 'lucide-react';

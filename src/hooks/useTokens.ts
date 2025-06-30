@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { supabase } from '@/backend/supabase/client';
 import { useAuth } from '@/contexts/AuthContext';
 import { useSmartContracts } from '@/onchain/hooks/useSmartContracts';
+=======
+
+import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
+import { supabase } from '@/integrations/supabase/client';
+import { useAuth } from '@/contexts/AuthContext';
+import { useSmartContracts } from '@/hooks/useSmartContracts';
+>>>>>>> 336e55f82ca4324f1eed472f015a41b49b20b461
 import { toast } from 'sonner';
 
 export interface Token {

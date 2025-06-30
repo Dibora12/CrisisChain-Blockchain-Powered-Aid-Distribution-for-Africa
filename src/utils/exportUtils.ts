@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 import { supabase } from '@/backend/supabase/client';
+=======
+
+import { supabase } from '@/integrations/supabase/client';
+>>>>>>> 336e55f82ca4324f1eed472f015a41b49b20b461
 
 export const exportIdentityData = async () => {
   try {
