@@ -1,19 +1,41 @@
 
-# CrisisChain - Blockchain Aid Distribution Platform
+# 🌍 CrisisChain – Blockchain Powered Aid Distribution For Africa
 
-A comprehensive blockchain-powered aid distribution platform for Africa, featuring privacy-first transactions, zero-knowledge proofs, and community-driven verification.
+**CrisisChain** is a decentralized web application platform designed to bring **transparency, fairness, and security** to humanitarian aid distribution across Africa. Built on the privacy focused **Midnight blockchain**, it enables NGOs, donors, governments, and communities to collaborate in a **trustless, verifiable ecosystem** where aid flows directly to verified recipients with no corruption or mismanagement.
+
+---
+
+## ✨ Purpose
+
+Too often, aid gets lost before reaching the people who need it most. CrisisChain solves this by using blockchain to:
+- Securely verify identities
+- Track every step of aid distribution
+- Issue tamper-proof digital aid tokens
+- Enable real-time dashboards for transparency
+
+---
+
+## 🚀 Features
+
+- 🔗 **Blockchain-based aid tracking** using Midnight smart contracts  
+- 🎟️ **Token-based aid claiming** via verified digital identity  
+- 🧾 **Zero-knowledge verification** to protect user privacy  
+- 📊 **Admin dashboard** with real-time analytics  
+- 📍 **Map-based tracking** of aid distribution centers  
+- 👛 **Lace Wallet integration** for secure transactions    
+- 🛡️ **Tamper-proof, fraud-resistant system**
 
 ## 🏗️ Project Structure
 
 This project is organized into three main directories for optimal development and deployment:
 
 ### 📁 `on-chain/` - Smart Contract Logic
-Contains all Ethereum/Solidity smart contract code and blockchain infrastructure:
+Contains all Midnight smart contract code and blockchain infrastructure:
 
 ```
 on-chain/
-├── contracts/          # Solidity smart contracts
-│   └── AidTokenContract.sol
+├── contracts/          # Midnight smart contracts
+│   └── AidTokenContract.js
 ├── scripts/           # Deployment and interaction scripts
 │   └── deploy.js
 ├── test/             # Smart contract unit tests
@@ -53,31 +75,6 @@ backend-supabase/
 └── .env.local.example # Environment variables template
 ```
 
-# 🌍 CrisisChain – Blockchain Powered Aid Distribution For Africa
-
-**CrisisChain** is a decentralized web app platform designed to bring **transparency, fairness, and security** to humanitarian aid distribution across Africa. Built on the privacy focused **Midnight blockchain**, it enables NGOs, donors, governments, and communities to collaborate in a **trustless, verifiable ecosystem** where aid flows directly to verified recipients with no corruption or mismanagement.
-
----
-
-## ✨ Purpose
-
-Too often, aid gets lost before reaching the people who need it most. CrisisChain solves this by using blockchain to:
-- Securely verify identities
-- Track every step of aid distribution
-- Issue tamper-proof digital aid tokens
-- Enable real-time dashboards for transparency
-
----
-
-## 🚀 Features
-
-- 🔗 **Blockchain-based aid tracking** using Midnight smart contracts  
-- 🎟️ **Token-based aid claiming** via verified digital identity  
-- 🧾 **Zero-knowledge verification** to protect user privacy  
-- 📊 **Admin dashboard** with real-time analytics  
-- 📍 **Map-based tracking** of aid distribution centers  
-- 👛 **Lace Wallet integration** for secure transactions    
-- 🛡️ **Tamper-proof, fraud-resistant system**
 
 ---
 
