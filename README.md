@@ -101,7 +101,7 @@ Run the following command in your project folder:
 
 ```bash
 npm install
-git clone https://github.com/Dibora12/CrisisChain-Blockchain-Powered-Aid-Distribution-for-Africa
+clone: git clone https://github.com/Dibora12/CrisisChain-Blockchain-Powered-Aid-Distribution-for-Africa
 cd CrisisChain-Blockchain-Powered-Aid-Distribution-for-Africa
 
 ```
@@ -207,6 +207,7 @@ npm run dev
 
 - Leyuthega Abebaw
 - Hana Tamiru
+  CrisisChain Team
 
 ## 🤝 Contributing
 
