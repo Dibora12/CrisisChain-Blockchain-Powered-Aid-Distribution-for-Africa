@@ -178,18 +178,6 @@ npm run dev
 
 ---
 
-## 📬 Contact
-
-### 👥 Team
-
-**Project Lead:** Dibora Shibeshi  
-📧 Email: diborashibeshi@gmail.com
-
-**Team Members:**
-- Leyutsega Abebaw  
-- Hana Tamiru
-
-CrisisChain Team
 
 ## 🤝 Contributing
 
